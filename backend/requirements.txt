@@ -1,0 +1,7 @@
+Flask
+Flask-CORS
+Flask-SQLAlchemy
+cx_Oracle
+pandas
+google-cloud-vision
+python-dotenv
